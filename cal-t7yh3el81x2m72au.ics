@@ -6,18 +6,18 @@ X-WR-CALNAME:Контент-план
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
 UID:tms8bz2xn-pub@kontent
-DTSTAMP:20261008T163925Z
+DTSTAMP:20261008T164138Z
 DTSTART:20261015T063000Z
 DTEND:20261015T070000Z
 SUMMARY:Рилс: контент план роликов с Кеплера
-DESCRIPTION:Готово к публикации · СК «Долина» · Александра
+DESCRIPTION:Контент на согласовании · СК «Долина» · Александра
 END:VEVENT
 BEGIN:VEVENT
 UID:tms8bz2xn-shoot@kontent
-DTSTAMP:20261008T163925Z
+DTSTAMP:20261008T164138Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Съёмка: контент план роликов с Кеплера
-DESCRIPTION:Готово к публикации · СК «Долина» · Александра
+DESCRIPTION:Контент на согласовании · СК «Долина» · Александра
 END:VEVENT
 END:VCALENDAR
